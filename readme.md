@@ -1,4 +1,4 @@
-### Eve of Impact - Source
+![alt tag](http://eveofimpact.com/static/img/header.png)
 
 **Snoop around, have some fun!** It's not the best code ever written, but maybe there's some interesting things in there for you. 
 
