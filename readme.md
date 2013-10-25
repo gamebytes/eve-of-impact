@@ -1,10 +1,10 @@
 ![alt tag](http://eveofimpact.com/static/img/header.png)
 
-**Snoop around, have some fun!** It's not the best code ever written, but maybe there's some interesting things in there for you. 
+####Snoop around, have some fun!
 
 I had never written a line of Objective-C or OpenGL in my life before this adventure so it might not all be up to standards.
 
-You can find some more information about the game on the [official webpage](http://www.eveofimpact.com) or of course in the [AppStore](http://itunes.apple.com/us/app/eve-of-impact/id465159205?ls=1&mt=8). There's also a game trailer you can view on [YouTube](http://www.youtube.com/watch?v=OqJuuV78Qug), queue Inception bwaaaaaap!
+You can find some more information about the game on the [official webpage](http://www.eveofimpact.com) or, of course, on the [AppStore](http://itunes.apple.com/us/app/eve-of-impact/id465159205?ls=1&mt=8). There's also a game trailer you can view on [YouTube](http://www.youtube.com/watch?v=OqJuuV78Qug), queue Inception bwaaaaaap!
 
 Any questions, contact me on [Twitter](http://www.twitter.com/rikschennink).
 
